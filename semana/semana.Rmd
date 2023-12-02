@@ -1,10 +1,10 @@
 ---
-title: "Presentation Ninja"
-subtitle: "&#x2694;&#xFE0F; xaringan +<br/>&#x1F60E; xaringanthemer"  
+title: "Sobre a Estats e o que é uma consultoria estatística"
+subtitle: "<br/><br/><br/>"  
 author: 
-  - "Yihui Xie"
-  - "Garrick Aden-Buie"
-date: '`r Sys.Date()`'
+  - "Estats Consultoria"
+
+#date: '`r Sys.Date()`'
 output:
   xaringan::moon_reader:
     css: xaringan-themer.css
@@ -15,7 +15,6 @@ output:
       ratio: 16:9
       countIncrementalSlides: true
 ---
-
 
 
 ```{r setup, include=FALSE}
@@ -37,7 +36,9 @@ style_duo_accent(
   primary_color = "#BD1C1C",
   secondary_color = "#BD1C1C",
   inverse_header_color = "#FFFFFF",
-  base_font_size = "25px"
+  base_font_size = "25px",
+  title_slide_background_image = 'img/simbolo.png',
+  title_slide_background_size = "300px"
 )
 ```
 
@@ -57,12 +58,15 @@ class: inverse center middle
 
 ---
 
-background-image: url("img/simbolo.png")  
-background-size: 10%
-background-position: 100% 90%
+background-image: url("img/fundo_slide.png")  
+background-size: contain
+
+## .center[O que é uma consultoria?]
+
+--
+<br><br>
+![](img/consutoria_dic.png)
+
 
 ---
-
-background-image: url("img/fundo_slide1.png")  
-background-size: contain
 
