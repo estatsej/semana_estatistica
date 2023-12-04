@@ -1,10 +1,11 @@
 ---
-title: "Sobre a Estats e o que é uma consultoria estatística"
-subtitle: "<br/><br/><br/>"  
+title: "A Estats e consultorias estatística"
+subtitle: "<br/><br/><br/>" 
 author: 
   - "Estats Consultoria"
 
 #date: '`r Sys.Date()`'
+
 output:
   xaringan::moon_reader:
     css: xaringan-themer.css
@@ -36,7 +37,7 @@ style_duo_accent(
   primary_color = "#BD1C1C",
   secondary_color = "#BD1C1C",
   inverse_header_color = "#FFFFFF",
-  base_font_size = "25px",
+  base_font_size = "30px",
   title_slide_background_image = 'img/simbolo.png',
   title_slide_background_size = "300px"
 )
@@ -50,8 +51,6 @@ class: inverse center middle
 
 ---
 
-
-
 class: inverse center middle
 
 # Consultorias
@@ -61,7 +60,7 @@ class: inverse center middle
 background-image: url("img/fundo_slide.png")  
 background-size: contain
 
-## .center[O que é uma consultoria?]
+## .right[O que é uma consultoria?]
 
 --
 <br><br>
@@ -69,4 +68,70 @@ background-size: contain
 
 
 ---
+
+background-image: url("img/fundo_slide.png")  
+background-size: contain
+
+## .right[O processo de uma consultoria]
+
+--
+<br><br>
+- Chegada do cliente
+- Negociação
+- Prestação de serviços
+- Pós-vendas
+
+---
+
+background-image: url("img/fundo_slide.png")  
+background-size: contain
+
+## .right[Chegada do cliente]
+
+O primeiro de tudo é o marketing, citar instagram, linkedin, site
+
+---
+
+background-image: url("img/fundo_slide.png")  
+background-size: contain
+
+## .right[Negociação]
+
+---
+
+background-image: url("img/fundo_slide.png")  
+background-size: contain
+
+## .right[Consultoria]
+
+Aqui é onde vai dar os três exemplos
+
+
+--- 
+
+background-image: url("img/fundo_slide.png")  
+background-size: contain
+
+## .right[Pós-vendas]
+
+---
+
+class: inverse
+
+##.center[Obrigado pela atenção]
+
+.pull-left[
+Onde nos encontrar:
+
+QRCODE.jpg
+]
+.right[
+.pull-right[
+ @estatsej
+ <br><br>
+ estats.ej@gmail.com
+ <br><br>
+ Sala 18, bloco E90 - UEM
+  ![](img/simbolo2.png){width=50px}
+]]
 
