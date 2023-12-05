@@ -48,6 +48,16 @@ class: inverse center middle
 
 # Sobre a Estats
 
+---
+
+background-image: url("img/fundo_slide.png")  
+background-size: contain
+
+## .right[História?]
+
+--
+<br><br>
+![](img/consutoria_dic.png)   
 
 ---
 
