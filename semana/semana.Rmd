@@ -66,6 +66,21 @@ background-size: contain
 <br><br>
 ![](img/consutoria_dic.png)
 
+---
+
+background-image: url("img/fundo_slide.png")  
+background-size: contain
+
+## .right[Carta de Serviços]
+
+- Consultoria Acadêmica
+- Pesquisa de Satisfação
+- Pesquisa de Mercado
+- Plano Amostral
+- Análise de Banco de Dados
+- Planejamento e Análise de Experimentos
+- Curso em Ambiente R
+
 
 ---
 
