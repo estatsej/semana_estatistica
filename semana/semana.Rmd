@@ -90,6 +90,7 @@ background-size: contain
 - Análise de Banco de Dados
 - Planejamento e Análise de Experimentos
 - Curso em Ambiente R
+- Business Inteligence
 
 
 ---
