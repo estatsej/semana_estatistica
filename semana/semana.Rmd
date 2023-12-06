@@ -39,10 +39,10 @@ style_duo_accent(
   inverse_header_color = "#FFFFFF",
   base_font_size = "30px",
   title_slide_background_image = 'img/simbolo.png',
-  title_slide_background_size = "300px"
-)
+  title_slide_background_size = "300px" ,
+    
+  )
 ```
-
 
 class: inverse center middle
 
@@ -84,16 +84,16 @@ background-size: contain
 
 ## .right[O processo de uma consultoria]
 
---
 <br><br>
-- Chegada do cliente
-- Negociação
-- Prestação de serviços
-- Pós-vendas
+- Chegada do cliente;
+- Negociação;
+- Prestação de serviços;
+- Pós-vendas.
 
 ---
 background-image: url("img/fundo_slide.png")  
 background-size: contain
+
 
 ## .right[Consultoria odontologia]
 
@@ -108,6 +108,8 @@ background-image: url("img/fundo_slide.png")
 background-size: contain
 
 ## .right[Consultoria odontologia]
+
+**Conclusões**
 
 - Nos dois tempos, as medidas eram concordantes.
 - No grupo afetado havia diferença entre lado esquerdo e direito
@@ -125,9 +127,15 @@ background-size: contain
 Objetivo: Compreender se os graus do Covid (Leve e Grave) influenciam nas avaliações testadas e se essas podem ser usadas para entender o grau da doença.
 
 - Sobre as avaliações: Havia alguma de memória, algumas de cordenação motora e avaliação de histórico médico.
-- Metodologia: Testes de normalidade, qui-quadrado e regressão logística.
+- Metodologia: normalidade, qui-quadrado e regressão logística.
 
---
+---
+background-image: url("img/fundo_slide.png")  
+background-size: contain
+
+## .right[Consultoria Covid-19]
+
+**Problemas**
 
 - Problemas de amostragem: Amostra pequena e muito heterogênea quanto a idade e escolaridade
 - Problemas nos escores: Concentração da pontuação dos escores no máximo
@@ -139,9 +147,9 @@ background-size: contain
 
 ## .right[Consultoria Covid-19]
 
+**Conclusões**
 
 - No Qui-quadrado verificamos o grau do covid e a classificação em cada teste era independente.
-
 - Na regressão utilizando o grau do covid como variável independente verificamos que a única variável significativa do banco foi a idade.
 
 ---
@@ -163,10 +171,10 @@ background-size: contain
 
 **Problemas**
 
-- Pesquisa SAEB: Realizada por amostragem
-- Múltiplos períodos de tempo
-- Metodologia criada no final de 2020
-- Consistência do banco de dados
+- Pesquisa SAEB: Realizada por amostragem;
+- Múltiplos períodos de tempo;
+- Metodologia criada no final de 2020;
+- Consistência do banco de dados.
 
 ---
 
