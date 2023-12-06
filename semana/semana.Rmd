@@ -1,20 +1,24 @@
 ---
 title: "A Estats e consultorias estatística"
-subtitle: "<br/><br/><br/>" 
+subtitle: "<br/><br/>" 
 author: 
   - "Estats Consultoria"
 
 #date: '`r Sys.Date()`'
 
 output:
+   
   xaringan::moon_reader:
     css: xaringan-themer.css
+    
     nature:
+      
       slideNumberFormat: "%current%"
       highlightStyle: github
       highlightLines: true
       ratio: 16:9
       countIncrementalSlides: true
+
 ---
 
 
@@ -39,8 +43,8 @@ style_duo_accent(
   inverse_header_color = "#FFFFFF",
   base_font_size = "30px",
   title_slide_background_image = 'img/simbolo.png',
-  title_slide_background_size = "300px" ,
-    
+  title_slide_background_size = "120px" ,
+  title_slide_background_position = '100% 97%'
   )
 ```
 
