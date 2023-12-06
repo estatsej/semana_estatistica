@@ -77,14 +77,13 @@ background-size: contain
 
 ---
 
-
-
 background-image: url("img/fundo_slide.png")  
 background-size: contain
 
 ## .right[A Estats Consultoria]
-
-![](img/estats_old.png)
+```{r, out.width="65%", fig.align = 'center', echo=FALSE}
+knitr::include_graphics("img/estats_old.png" )
+```
 ---
 
 background-image: url("img/fundo_slide.png")  
@@ -96,11 +95,14 @@ background-size: contain
 - Presidente: Lucas 
 --
 
+
 - Vice Presidente: Lorival
 --
 
+
 - Conselheira Executiva: Maria Eduarda
 --
+
 
 - Diretora de Desenvolvimento Humano e Organizacional: Giovanna
 --
@@ -108,31 +110,48 @@ background-size: contain
 - Diretora Juridico-Financeiro: Débora
 --
 
+
 - Diretor de Projetos: Gabriel
 --
 
+
 - Diretor de Marketing: Julio
-
-
----
 
 ---
 
 background-image: url("img/fundo_slide.png")  
 background-size: contain
 
-## .right[A Estats Consuloria]
+## .right[Numar]
+
 
 --
-- Presidente: Lucas 
+- Numar (Núcleo das Empresas Juniores de Maringá e Jandaia do Sul)
+
 --
 
+
+Premiações do Segundo Semestre
+
+--
+- EJ Navegando em Águas Profundas.
+
+
+--
+- EJ Mar Aberto.
 
 
 ---
 
+background-image: url("img/fundo_slide.png")  
+background-size: contain
 
-
+## .right[Numar]
+--
+```{r, out.width="59%", fig.align = 'center', echo=FALSE}
+knitr::include_graphics("img/numar.jpg" )
+```
+---
 class: inverse center middle
 
 # Consultorias
