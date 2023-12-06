@@ -142,7 +142,8 @@ a, a > code {
 .title-slide {
   background-color: var(--title-slide-background-color);
   background-image: url("img/simbolo.png");
-  background-size: 300px;
+  background-size: 120px;
+  background-position: 100% 97%;
 }
 .title-slide .remark-slide-number {
   display: none;
