@@ -39,10 +39,10 @@ style_duo_accent(
   inverse_header_color = "#FFFFFF",
   base_font_size = "30px",
   title_slide_background_image = 'img/simbolo.png',
-  title_slide_background_size = "300px"
-)
+  title_slide_background_size = "300px" ,
+    
+  )
 ```
-
 
 class: inverse center middle
 
@@ -130,22 +130,6 @@ background-size: contain
 <br><br>
 ![](img/consutoria_dic.png)
 
----
-
-background-image: url("img/fundo_slide.png")  
-background-size: contain
-
-## .right[Carta de Serviços]
-
-- Consultoria Acadêmica
-- Pesquisa de Satisfação
-- Pesquisa de Mercado
-- Plano Amostral
-- Análise de Banco de Dados
-- Planejamento e Análise de Experimentos
-- Curso em Ambiente R
-- Business Inteligence
-
 
 ---
 
@@ -154,45 +138,103 @@ background-size: contain
 
 ## .right[O processo de uma consultoria]
 
---
 <br><br>
-- Chegada do cliente
-- Negociação
-- Prestação de serviços
-- Pós-vendas
+- Chegada do cliente;
+- Negociação;
+- Prestação de serviços;
+- Pós-vendas.
+
+---
+background-image: url("img/fundo_slide.png")  
+background-size: contain
+
+
+## .right[Consultoria odontologia]
+
+Objetivo: Verificação de concordância entre medições e comparação da densidade de determinados ossos nos lados direitos e esquerdo entre dois grupos - afetado e controle.
+
+- Doenças: anemia falciforme e beta-talassemia
+- Metodologia: ICC, testes de normalidade, Mann-whitney e teste t
 
 ---
 
 background-image: url("img/fundo_slide.png")  
 background-size: contain
 
-## .right[Chegada do cliente]
+## .right[Consultoria odontologia]
 
-O primeiro de tudo é o marketing, citar instagram, linkedin, site
+**Conclusões**
+
+- Nos dois tempos, as medidas eram concordantes.
+- No grupo afetado havia diferença entre lado esquerdo e direito
+- No grupo controle não houve diferença na densidade entre os lados
+- Comparando um grupo com outro, havia diferença entre os lados esquerdos
+
 
 ---
 
 background-image: url("img/fundo_slide.png")  
 background-size: contain
 
-## .right[Negociação]
+## .right[Consultoria Covid-19]
+
+Objetivo: Compreender se os graus do Covid (Leve e Grave) influenciam nas avaliações testadas e se essas podem ser usadas para entender o grau da doença.
+
+- Sobre as avaliações: Havia alguma de memória, algumas de cordenação motora e avaliação de histórico médico.
+- Metodologia: normalidade, qui-quadrado e regressão logística.
+
+---
+background-image: url("img/fundo_slide.png")  
+background-size: contain
+
+## .right[Consultoria Covid-19]
+
+**Problemas**
+
+- Problemas de amostragem: Amostra pequena e muito heterogênea quanto a idade e escolaridade
+- Problemas nos escores: Concentração da pontuação dos escores no máximo
 
 ---
 
 background-image: url("img/fundo_slide.png")  
 background-size: contain
 
-## .right[Consultoria]
+## .right[Consultoria Covid-19]
 
-Aqui é onde vai dar os três exemplos
+**Conclusões**
 
+- No Qui-quadrado verificamos o grau do covid e a classificação em cada teste era independente.
+- Na regressão utilizando o grau do covid como variável independente verificamos que a única variável significativa do banco foi a idade.
 
---- 
+---
 
 background-image: url("img/fundo_slide.png")  
 background-size: contain
 
-## .right[Pós-vendas]
+## .right[Consultoria economia]
+
+Objetivo: Queria verificar se as escolas que eram de gerência estadual e foram para gerência municipal melhoravam ou pioravam.
+- Medida usada: Nota do SAEB 2011 - 2021
+- Metodologia: Diferenças de diferenças em múltiplos períodos de tempo
+
+---
+background-image: url("img/fundo_slide.png")  
+background-size: contain
+
+## .right[Consultoria economia]
+
+**Problemas**
+
+- Pesquisa SAEB: Realizada por amostragem;
+- Múltiplos períodos de tempo;
+- Metodologia criada no final de 2020;
+- Consistência do banco de dados.
+
+---
+
+class: inverse center middle
+
+# Conclusão
 
 ---
 
@@ -202,16 +244,33 @@ class: inverse
 
 .pull-left[
 Onde nos encontrar:
-
-QRCODE.jpg
+<BR><BR>
+```{r, echo=FALSE, out.width="70%"}
+  knitr::include_graphics('img/simbolo2.png')
+```
 ]
-.right[
+
 .pull-right[
- @estatsej
+<br>
+```{r, echo=FALSE, out.width="40px"}
+  knitr::include_graphics('img/instagram2.png')
+```
+@estatsej
  <br><br>
+```{r, echo=FALSE, out.width="40px"}
+  knitr::include_graphics('img/email2.png')
+```
  estats.ej@gmail.com
  <br><br>
+```{r, echo=FALSE, out.width="40px"}
+  knitr::include_graphics('img/site2.png')
+```
+ <font color = "#FFFFFF"> www.estatsej.com.br </font>
+ <br><br>
+```{r, echo=FALSE, out.width="40px"}
+  knitr::include_graphics('img/local2.png')
+```
  Sala 18, bloco E90 - UEM
-  ![](img/simbolo2.png){width=50px}
-]]
+ 
 
+]
