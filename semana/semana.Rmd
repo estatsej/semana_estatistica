@@ -95,14 +95,11 @@ background-size: contain
 - Presidente: Lucas 
 --
 
-
 - Vice Presidente: Lorival
 --
 
-
 - Conselheira Executiva: Maria Eduarda
 --
-
 
 - Diretora de Desenvolvimento Humano e Organizacional: Giovanna
 --
@@ -110,10 +107,8 @@ background-size: contain
 - Diretora Juridico-Financeiro: Débora
 --
 
-
 - Diretor de Projetos: Gabriel
 --
-
 
 - Diretor de Marketing: Julio
 
@@ -147,7 +142,6 @@ background-image: url("img/fundo_slide.png")
 background-size: contain
 
 ## .right[Numar]
---
 ```{r, out.width="59%", fig.align = 'center', echo=FALSE}
 knitr::include_graphics("img/numar.jpg" )
 ```
