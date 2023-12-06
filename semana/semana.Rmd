@@ -92,7 +92,6 @@ background-size: contain
 
 ## .right[Estrutura Organizacional]
 
-
 --
 - Presidente: Lucas 
 --
@@ -110,10 +109,29 @@ background-size: contain
 --
 
 - Diretor de Projetos: Gabriel
+--
+
+- Diretor de Marketing: Julio
+
+
+---
+
+---
+
+background-image: url("img/fundo_slide.png")  
+background-size: contain
+
+## .right[A Estats Consuloria]
+
+--
+- Presidente: Lucas 
+--
 
 
 
 ---
+
+
 
 class: inverse center middle
 
