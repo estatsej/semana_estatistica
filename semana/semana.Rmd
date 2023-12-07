@@ -1,6 +1,6 @@
 ---
-title: "A Estats e consultorias estatística"
-subtitle: "<br/><br/>" 
+title: "Relatos de Caso"
+subtitle: "" 
 author: 
   - "Estats Consultoria"
 
